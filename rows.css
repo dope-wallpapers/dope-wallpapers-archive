@@ -6,3 +6,7 @@
 .row::after {
     display: flex;
 }
+ 
+img {
+    width: 20%;
+}
